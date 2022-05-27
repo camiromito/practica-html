@@ -1,0 +1,12 @@
+.caja{
+border: 1px solid black;
+}
+
+.caja2{
+    border: 1px solid gray;
+}
+
+.boton-azul {
+    background-color: blue;
+color: white;
+}
